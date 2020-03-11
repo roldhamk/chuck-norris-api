@@ -10,7 +10,7 @@ export class App extends Component {
     this.getNew();
   }
   getNew = e => {
-    fetch("http://api.icndb.com/jokes/random")
+    fetch("https://api.icndb.com/jokes/random")
       .then(res => res.json())
       .then(json => this.setState({ value: [json] }));
   };
