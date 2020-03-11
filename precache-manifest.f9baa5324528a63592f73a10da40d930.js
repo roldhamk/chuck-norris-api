@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43e5400112e1044ed4de46a6b1665993",
+    "revision": "27473bbc43f994f9ada0d2c4e8f0daf4",
     "url": "/chuck-norris-api/index.html"
   },
   {
-    "revision": "9dfb2691a034e0cf5b04",
+    "revision": "a0ec1b1ba38ce05d02bd",
     "url": "/chuck-norris-api/static/css/main.c8b4a678.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chuck-norris-api/static/js/2.78021818.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dfb2691a034e0cf5b04",
-    "url": "/chuck-norris-api/static/js/main.027aa764.chunk.js"
+    "revision": "a0ec1b1ba38ce05d02bd",
+    "url": "/chuck-norris-api/static/js/main.9a800f73.chunk.js"
   },
   {
     "revision": "9767776bf59d3ea9355b",
